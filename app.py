@@ -12,7 +12,7 @@ RATE_CENTS = 3000
 
 st.markdown('''<style>
 .block-container {padding-top: 1.5rem; max-width: 1100px;}
-[data-testid="stMetric"] {background: #f3f6f9; padding: 14px; border-radius: 12px;}
+[data-testid="stMetric"] {background: #2986cc; padding: 14px; border-radius: 12px;}
 </style>''', unsafe_allow_html=True)
 
 st.title('🚐 VanTrack')
